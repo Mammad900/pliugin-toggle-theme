@@ -1,9 +1,9 @@
 {
   "name": "hmp-toggle-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Toggle App Theme",
   "description": "Allows you to toggle the app theme using automation",
-  "main": "index.js",
+  "main": "index.ts",
   "type": "module",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
   },
   "author": "Home_modules (https://github.com/Home-modules)",
   "license": "UNLICENSED",
-  "compatibleWithHub": "0.0.2",
+  "compatibleWithHub": "0.0.3",
   "dependencies": {
   },
   "devDependencies": {
